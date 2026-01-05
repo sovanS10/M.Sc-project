@@ -8,7 +8,7 @@ It focuses on detecting brain tumors using machine learning / deep learning tech
 - Training        → Model training data
 - Testing         → Testing and evaluation
 - saved_models    → Trained models
-- 
+- # train_end_to_end.py → For training the data
 - brain_tumor_app.py → Main application file
 
 ## How to Run
