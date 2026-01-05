@@ -5,9 +5,10 @@ This project is developed as part of my M.Sc coursework.
 It focuses on detecting brain tumors using machine learning / deep learning techniques.
 
 ## Project Structure
-- Training/        → Model training code
-- Testing/         → Testing and evaluation
-- saved_models/    → Trained models
+- Training        → Model training data
+- Testing         → Testing and evaluation
+- saved_models    → Trained models
+- 
 - brain_tumor_app.py → Main application file
 
 ## How to Run
